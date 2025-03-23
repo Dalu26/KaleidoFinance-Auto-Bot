@@ -44,3 +44,18 @@
    screen -r kaleidofinance
    ```
 
+## Getting NPM Error?
+1. Install nvm
+ ```bash
+   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+   ```
+2. Update source
+ ```bash
+   source ~/.bashrc
+   ```
+3. Update source
+ ```bash
+   nvm install v20.18.0
+   ```
+## Install dependencies again. Fixed
+
