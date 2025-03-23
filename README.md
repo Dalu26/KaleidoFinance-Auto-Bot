@@ -2,7 +2,7 @@
 THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 
 ## Register
-- [https://kaleidofinance.xyz/testnet](https://kaleidofinance.xyz/testnet?ref=71IQUFCT)
+- [https://kaleidofinance.xyz/testnet](https://kaleidofinance.xyz/testnet?ref=OENHDM8Q)
 
 ## 🌟 Features
 
@@ -18,7 +18,7 @@ THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/airdropinsiders/KaleidoFinance-Auto-Bot.git
+   git clone https://github.com/Dalu26/KaleidoFinance-Auto-Bot.git
    cd KaleidoFinance-Auto-Bot
    ```
 2. Install dependencies:
