@@ -21,8 +21,9 @@
    cd KaleidoFinance-Auto-Bot
    ```
 2.  Create Screen
-```bash screen -S kaleidofinance```
-
+      ```bash
+      screen -S kaleidofinance
+      ```
 3. Install dependencies:
    ```bash
    npm install
@@ -46,16 +47,16 @@
 
 ## Getting NPM Error?
 1. Install nvm
- ```bash
-   curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
-   ```
+    ```bash
+      curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.1/install.sh | bash
+      ```
 2. Update source
- ```bash
-   source ~/.bashrc
-   ```
+    ```bash
+      source ~/.bashrc
+      ```
 3. Install npm
- ```bash
-   nvm install v20.18.0
-   ```
+    ```bash
+      nvm install v20.18.0
+      ```
 ## Install dependencies again. Fixed
 
