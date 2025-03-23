@@ -1,5 +1,4 @@
 # Kaleido Auto Bot 🤖
-THIS IS BETA VERSION SO MAYBE WORK OR MAYBE NOT BECAUSE SERVER IS LAGGY
 
 ## Register
 - [https://kaleidofinance.xyz/testnet](https://kaleidofinance.xyz/testnet?ref=OENHDM8Q)
