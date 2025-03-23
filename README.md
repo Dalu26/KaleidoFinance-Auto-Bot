@@ -53,7 +53,7 @@
  ```bash
    source ~/.bashrc
    ```
-3. Update source
+3. Install npm
  ```bash
    nvm install v20.18.0
    ```
