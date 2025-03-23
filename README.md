@@ -20,16 +20,27 @@
    git clone https://github.com/Dalu26/KaleidoFinance-Auto-Bot.git
    cd KaleidoFinance-Auto-Bot
    ```
-2. Install dependencies:
+2.  Create Screen
+```bash screen -S kaleidofinance```
+
+3. Install dependencies:
    ```bash
    npm install
    ```
-3. Create a wallets.txt file and add your wallet addresses (one per line):
+4. Create a wallets.txt file and add your wallet addresses (one per line):
    ```bash
    nano wallets.txt
    ```
-4. Run Bot
+5. Run Bot
    ```bash
    npm run start
+   ```
+6. Detach from screen
+   ```bash
+   Ctrl + A + D
+   ```
+7. To return to the screen
+   ```bash
+   screen -r kaleidofinance
    ```
 
